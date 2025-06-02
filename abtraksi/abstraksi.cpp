@@ -14,5 +14,5 @@ Void setXY(string a, string b) {
     y = b;
 }
 //menampilkan 
-
+//       
 }
